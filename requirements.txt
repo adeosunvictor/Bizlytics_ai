@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+sweetviz==2.3.1
+scikit-learn
+fpdf
+pillow
+prophet
+google-generativeai
