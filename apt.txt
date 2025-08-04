@@ -1,0 +1,11 @@
+build-essential
+python3-dev
+libatlas-base-dev
+libfreetype6-dev
+libpng-dev
+libopenblas-dev
+liblapack-dev
+gfortran
+libffi-dev
+libpq-dev
+
